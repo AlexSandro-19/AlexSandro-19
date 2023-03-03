@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Meu nome é Alex Sandro Soares de Carvalho
+Sempre fui atraído(a) por computadores. Tenho uma meta pessoal em virar um desenvolvedor de software sênior.
 
-<!--
-**AlexSandro-19/AlexSandro-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Meus conhecimentos
+Tenho conhecimentos nas tecnologias/linguagens abaixo. Estão em constante aprendizado conforme você notará nos meus repositórios do Github.
 
-Here are some ideas to get you started:
+.NET C# / ASP.NET Core
+HTML5/CSS/Javascript
+Bancos de dados SQL Server (incluindo capacidade de modelar um banco de dados do zero)
+Python para automatizações
+Boa parte do meu aprendizado eu aprendi no curso www.eucodo.com.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Como me contactar
+Email: Alex Sandro Soares de Carvalho
